@@ -1,0 +1,24 @@
+E:\Andreani\POO\Modulo 1\desafio01\Modulo 3\bin\Debug\Modulo 3.exe.config
+E:\Andreani\POO\Modulo 1\desafio01\Modulo 3\bin\Debug\Modulo 3.exe
+E:\Andreani\POO\Modulo 1\desafio01\Modulo 3\bin\Debug\Modulo 3.pdb
+E:\Andreani\POO\Modulo 1\desafio01\Modulo 3\obj\Debug\Modulo 3.csproj.AssemblyReference.cache
+E:\Andreani\POO\Modulo 1\desafio01\Modulo 3\obj\Debug\Modulo 3.csproj.SuggestedBindingRedirects.cache
+E:\Andreani\POO\Modulo 1\desafio01\Modulo 3\obj\Debug\Modulo 3.csproj.CoreCompileInputs.cache
+E:\Andreani\POO\Modulo 1\desafio01\Modulo 3\obj\Debug\Modulo 3.exe
+E:\Andreani\POO\Modulo 1\desafio01\Modulo 3\obj\Debug\Modulo 3.pdb
+E:\Andreani\C#\desafio01\Modulo 3\bin\Debug\Modulo 3.exe.config
+E:\Andreani\C#\desafio01\Modulo 3\bin\Debug\Modulo 3.exe
+E:\Andreani\C#\desafio01\Modulo 3\bin\Debug\Modulo 3.pdb
+E:\Andreani\C#\desafio01\Modulo 3\obj\Debug\Modulo 3.csproj.AssemblyReference.cache
+E:\Andreani\C#\desafio01\Modulo 3\obj\Debug\Modulo 3.csproj.SuggestedBindingRedirects.cache
+E:\Andreani\C#\desafio01\Modulo 3\obj\Debug\Modulo 3.csproj.CoreCompileInputs.cache
+E:\Andreani\C#\desafio01\Modulo 3\obj\Debug\Modulo 3.exe
+E:\Andreani\C#\desafio01\Modulo 3\obj\Debug\Modulo 3.pdb
+E:\Andreani\C#\Integrador\Modulo 3\bin\Debug\Modulo 3.exe.config
+E:\Andreani\C#\Integrador\Modulo 3\bin\Debug\Modulo 3.exe
+E:\Andreani\C#\Integrador\Modulo 3\bin\Debug\Modulo 3.pdb
+E:\Andreani\C#\Integrador\Modulo 3\obj\Debug\Modulo 3.csproj.AssemblyReference.cache
+E:\Andreani\C#\Integrador\Modulo 3\obj\Debug\Modulo 3.csproj.SuggestedBindingRedirects.cache
+E:\Andreani\C#\Integrador\Modulo 3\obj\Debug\Modulo 3.csproj.CoreCompileInputs.cache
+E:\Andreani\C#\Integrador\Modulo 3\obj\Debug\Modulo 3.exe
+E:\Andreani\C#\Integrador\Modulo 3\obj\Debug\Modulo 3.pdb
